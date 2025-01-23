@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\Set2-6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577A0CC2-2234-439D-A00E-D28273D221E2}|Set2-6\\Set2-6.csproj|c:\\users\\david\\source\\repos\\set2-6\\set2-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A0CC2-2234-439D-A00E-D28273D221E2}|Set2-6\\Set2-6.csproj|solutionrelative:set2-6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A0CC2-2234-439D-A00E-D28273D221E2}|Set2-6\\Set2-6.csproj|c:\\users\\david\\source\\repos\\set2-6\\set2-6\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{577A0CC2-2234-439D-A00E-D28273D221E2}|Set2-6\\Set2-6.csproj|solutionrelative:set2-6\\data.in||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "data.in",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Set2-6\\Set2-6\\data.in",
+              "RelativeDocumentMoniker": "Set2-6\\data.in",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Set2-6\\Set2-6\\data.in",
+              "RelativeToolTip": "Set2-6\\data.in",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-14T18:00:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\Set2-6\\Set2-6\\Program.cs",
+              "RelativeDocumentMoniker": "Set2-6\\Program.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\Set2-6\\Set2-6\\Program.cs",
+              "RelativeToolTip": "Set2-6\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:59:21.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
