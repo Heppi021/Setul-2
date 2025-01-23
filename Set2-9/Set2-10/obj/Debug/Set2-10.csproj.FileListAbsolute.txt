@@ -1,0 +1,7 @@
+C:\Users\david\source\repos\Set2-10\Set2-10\bin\Debug\Set2-10.exe.config
+C:\Users\david\source\repos\Set2-10\Set2-10\bin\Debug\Set2-10.exe
+C:\Users\david\source\repos\Set2-10\Set2-10\bin\Debug\Set2-10.pdb
+C:\Users\david\source\repos\Set2-10\Set2-10\obj\Debug\Set2-10.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\Set2-10\Set2-10\obj\Debug\Set2-10.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Set2-10\Set2-10\obj\Debug\Set2-10.exe
+C:\Users\david\source\repos\Set2-10\Set2-10\obj\Debug\Set2-10.pdb
